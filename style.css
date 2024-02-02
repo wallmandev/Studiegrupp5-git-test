@@ -2,3 +2,9 @@ p {
   color: red;
   font-size: large;
 }
+
+.box1 {
+  background-color: beige;
+  width: fit-content;
+  padding: 20px;
+}
